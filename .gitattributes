@@ -1,2 +1,4 @@
-/mvnw text eol=lf
+# Add logs to track file types and line endings
+# mvnw text eol=lf
+# *.cmd text eol=crlf/mvnw text eol=lf
 *.cmd text eol=crlf
